@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋  I'm meiweijia
+[![Github](https://img.shields.io/github/followers/meiweijia?label=Follow&style=social)](https://github.com/meiweijia)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meiweijia&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meiweijia&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meiweijia&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meiweijia&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meiweijia&theme=github)
 
 <!--
 **meiweijia/meiweijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
